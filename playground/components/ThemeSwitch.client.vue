@@ -16,7 +16,11 @@ watchEffect(() => {
 
 <template>
   <div>
-    <label for='theme'>Dark</label>
-    <input type='checkbox' id='theme' v-model='theme' />
+    <label for="theme">Dark</label>
+    <input
+      id="theme"
+      v-model="theme"
+      type="checkbox"
+    >
   </div>
 </template>

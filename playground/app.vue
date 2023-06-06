@@ -1,6 +1,6 @@
 <template>
   <div>
-    <Theme />
+    <ThemeSwitch />
     Nuxt module playground!
   </div>
 </template>

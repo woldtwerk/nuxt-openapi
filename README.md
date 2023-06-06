@@ -7,6 +7,8 @@
 
 This module adds a Tab to nuxt devtools. It shows your OpenApi spec.
 
+![nuxt-openapi](./assets/nuxt-openapi.webp)
+
 - [✨ &nbsp;Release Notes](/CHANGELOG.md)
 <!-- - [🏀 Online playground](https://stackblitz.com/github/your-org/@woldtwerk/nuxt-openapi?file=playground%2Fapp.vue) -->
 <!-- - [📖 &nbsp;Documentation](https://example.com) -->

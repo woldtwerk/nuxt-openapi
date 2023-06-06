@@ -3,6 +3,11 @@
   "version": "0.0.2",
   "description": "OpenApi UI using swagger or redoc",
   "repository": "https://github.com/woldtwerk/nuxt-openapi",
+  "private": false,
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
   "license": "MIT",
   "type": "module",
   "exports": {

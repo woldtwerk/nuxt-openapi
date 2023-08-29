@@ -1,6 +1,26 @@
 # Changelog
 
 
+## v0.0.3
+
+[compare changes](https://github.com/woldtwerk/nuxt-openapi/compare/v0.0.2...v0.0.3)
+
+### 🚀 Enhancements
+
+- ✨  update publish config ([2522a9d](https://github.com/woldtwerk/nuxt-openapi/commit/2522a9d))
+
+### 🏡 Chore
+
+- 🔨  update deps ([44476b4](https://github.com/woldtwerk/nuxt-openapi/commit/44476b4))
+
+### ✅ Tests
+
+- ✅  update module import ([fc43f34](https://github.com/woldtwerk/nuxt-openapi/commit/fc43f34))
+
+### ❤️ Contributors
+
+- Willi Woldt <willi.woldt@ueberbit.de>
+
 ## v0.0.2
 
 
